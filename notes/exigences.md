@@ -1,5 +1,7 @@
 # Exigences fonctionnelles et non fonctionnelles
 
+Une liste des exigences fonctionnelles et non fonctionnelles pour le projet Kékés Voyages :
+
 | Fonctionnelles                   | Non fonctionnelles       |
 | -------------------------------- | ------------------------ |
 | Authentification                 | Référencement            |
