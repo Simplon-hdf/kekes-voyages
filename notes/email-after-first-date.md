@@ -5,7 +5,7 @@ Nous tenions dans un premier temps à vous remercier pour le temps accordé ce m
 Suite à cet échange, vous nous avez exprimé les besoins de :
 
 - D'obtenir une application web et mobile pour vos utilisateurs 
-- De pouvoir favoriser la création de compte pour vos utilisateurs sans pourtant les obliger  
+- De pouvoir favoriser la création de compte pour vos utilisateurs sans pour autant les obliger  
 - De privilégier la pension plutôt que le vol sec 
 - Votre site a pour objectif de développer le revenu de votre commerce  
 
