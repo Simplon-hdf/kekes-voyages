@@ -22,3 +22,12 @@ Régles de gestion pour le projet Kékés Voyages.
 ## Client
 
 - **RG1 :**
+
+## Passager
+
+- **RG1 :** Un passager à un nom.
+- **RG2 :** Un massager à un prénom.
+- **RG3 :** Un passager à une date de naissance.
+- **RG4 :** Un passager à un numéro de siège par vol.
+- **RG5 :** Un passager à une pièce d'identité.
+- **RG6 :** Un passager peut avoir un passport
