@@ -18,7 +18,7 @@ Régles de gestion pour le projet Kékés Voyages.
 ## Réservation
 
 - **RG1 :** Une réservation doit avoir un vol.
-- **RG2 :** Une réservation doit avoir plusieurs vol.
+- **RG2 :** Une réservation peut avoir plusieurs vol.
 - **RG3 :** Une réservation doit avoir une destination.
 - **RG4 :** Une réservation doit avoir un départ.
 - **RG5 :** Une réservation doit avoir une classe.
