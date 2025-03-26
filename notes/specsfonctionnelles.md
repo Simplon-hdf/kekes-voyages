@@ -31,3 +31,10 @@ Régles de gestion pour le projet Kékés Voyages.
 - **RG4 :** Un passager à un numéro de siège par vol.
 - **RG5 :** Un passager à une pièce d'identité.
 - **RG6 :** Un passager peut avoir un passport
+
+## Compagnie
+
+- **RG1 :** Une compagnie a un nom.
+- **RG2 :** Une compagnie peut ajouter un vol.
+- **RG3 :** Une compagnie peut modifier un vol.
+- **RG4 :** Une compagnie peut supprimer un vol.
