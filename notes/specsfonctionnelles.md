@@ -17,11 +17,35 @@ Régles de gestion pour le projet Kékés Voyages.
 
 ## Réservation
 
-- **RG1 :**
+- **RG1 :** Une réservation doit avoir un vol.
+- **RG2 :** Une réservation peut avoir plusieurs vol.
+- **RG3 :** Une réservation doit avoir une destination.
+- **RG4 :** Une réservation doit avoir un départ.
+- **RG5 :** Une réservation doit avoir une classe.
+- **RG6 :** Une réservation doit avoir un numéro de réservation.
+- **RG7 :** Une réservation doit avoir un passager.
+- **RG8 :** Une réservation peut avoir des options.
+- **RG9 :** Une réservation peut être créée.
+- **RG10 :** Une réservation peut-être modifiée.
+- **RG11 :** Une réservation peut-être supprimée.
+- **RG12 :** Une réservation doit avoir un prix.
+- **RG13 :** Une réservation doit avoir un client.
+- **RG14 :** Une réservation crée un billet et envoie un mail de confirmation.
 
 ## Client
 
-- **RG1 :**
+- **RG1 :** Un client doit avoir un prénom et nom
+- **RG2 :** Un client doit avoir un mail
+- **RG3 :** Un client peut avoir un mot de passe
+- **RG4 :** Un client doit avoir une date de naissance
+- **RG5 :** Un client doit avoir des informations bancaires
+- **RG6 :** Un client doit avoir une adresse de facturation
+- **RG7 :** Un client peut faire ou annuler une réservation
+- **RG8 :** Un client peut consulter des vols
+- **RG9 :** Un client peut réserver pour un ou plusieurs passagers
+- **RG10 :** Un client peut être un passager
+- **RG11 :** Un client peut créer un compte
+- **RG12 :** Un client peut modifier ou supprimer son compte
 
 ## Passager
 
@@ -38,3 +62,4 @@ Régles de gestion pour le projet Kékés Voyages.
 - **RG2 :** Une compagnie peut ajouter un vol.
 - **RG3 :** Une compagnie peut modifier un vol.
 - **RG4 :** Une compagnie peut supprimer un vol.
+
