@@ -25,11 +25,11 @@ Régles de gestion pour le projet Kékés Voyages.
 - **RG2 :** Un client doit avoir un mail
 - **RG3 :** Un client peut avoir un mot de passe
 - **RG4 :** Un client doit avoir une date de naissance
-- **RG5 :** Un client doit avoir des informations Bancaire
+- **RG5 :** Un client doit avoir des informations bancaires
 - **RG6 :** Un client doit avoir une adresse de facturation
 - **RG7 :** Un client peut faire ou annuler une réservation
 - **RG8 :** Un client peut consulter des vols
-- **RG9 :** Un client peut réserver pour un ou plusieurs passager
+- **RG9 :** Un client peut réserver pour un ou plusieurs passagers
 - **RG10 :** Un client peut être un passager
 - **RG11 :** Un client peut créer un compte
 - **RG12 :** Un client peut modifier ou supprimer son compte
