@@ -46,3 +46,20 @@ Régles de gestion pour le projet Kékés Voyages.
 - **RG10 :** Un client peut être un passager
 - **RG11 :** Un client peut créer un compte
 - **RG12 :** Un client peut modifier ou supprimer son compte
+
+## Passager
+
+- **RG1 :** Un passager a un nom.
+- **RG2 :** Un massager a un prénom.
+- **RG3 :** Un passager a une date de naissance.
+- **RG4 :** Un passager a un numéro de siège par vol.
+- **RG5 :** Un passager doit avoir une pièce d'identité.
+- **RG6 :** Un passager peut avoir un passport.
+
+## Compagnie
+
+- **RG1 :** Une compagnie a un nom.
+- **RG2 :** Une compagnie peut ajouter un vol.
+- **RG3 :** Une compagnie peut modifier un vol.
+- **RG4 :** Une compagnie peut supprimer un vol.
+
