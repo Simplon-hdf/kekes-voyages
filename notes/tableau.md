@@ -1,0 +1,12 @@
+| Problématiques               | Problèmes                                    | Solutions                                                                                                                |
+| ---------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Besoin de numérisation       | Site web / application mobile                | Site web accessible sur tous les appareils et une application mobile                                                     |
+| Besoin de numérisation       | Compte voulu par le client (pas obligatoire) | Design mettant en avant la création de compte                                                                            |
+| Besoin de numérisation       | Pas de charte graphique                      | Créer une charte graphique adaptée pour Kékés Voyages                                                                    |
+| Besoin de numérisation       | Système de paiement                          | Redirection vers une page de paiement sécurisée                                                                          |
+| Besoin de numérisation       | Location voiture / hôtel                     | Redirection vers les services                                                                                            |
+| Augmentation des bénéfices   | Manque d'argent                              | Meilleur référencement du site, publicités                                                                               |
+| Augmentation des bénéfices   | Priorité aux pensions plutôt qu'au vol sec   | Page d'accueil axée sur les pensions complètes                                                                           |
+| Augmentation des bénéfices   | Spécialisation Europe                        | Prioriser les destinations vers l'Europe (hors Europe disponible)                                                        |
+|                              | Délai trop court                             | Délai plus long                                                                                                          |
+| Démarquage de la concurrence | Fonctionnalités                              | Filtrer les vols via un formulaire, comparaison des prix (avec d'autres agences), recommander des vols selon les saisons |
