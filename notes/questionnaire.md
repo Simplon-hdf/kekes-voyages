@@ -15,3 +15,17 @@
 - L'entreprise a t-elle une charte graphique ?
 
 - Quel est le livrable ?
+
+## Clientèle
+
+- Est-ce que votre agence propose des abonnements ?
+
+- Système de paiement en ligne ?
+
+- Système de remboursement ?
+
+- Quelles genre d'inforations allez-vous récolter de vos clients
+
+- Comment souhaitez-vous gérer vos litiges et réclamations ?
+
+- Avez-vous un programme de fidélisation ? comment fonctionne-t-il ?
