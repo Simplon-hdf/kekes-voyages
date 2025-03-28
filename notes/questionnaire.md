@@ -53,3 +53,19 @@
 - Comment gérez-vous les annulations de vol ?
 
 - Combien de billets votre agence vend par mois ?
+
+## Divers
+
+- Avez-vous une base de données ?
+
+- Avez-vous déjà un logiciel de gestion ?
+
+- Depuis quand votre entreprise est établie ?
+
+- Combien d’agences votre entreprise possède-t-elle en France ?
+
+- Location de voiture/réservation d’hôtel ?
+
+- Pouvez-vous nous donner votre e-mail ?
+
+- Votre site doit être opérationnel sous quel délai ?
