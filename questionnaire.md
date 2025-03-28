@@ -4,9 +4,9 @@
 
 - **Qu'attendez-vous de ce projet ?**
 
-  > Gagner plus d'argents.
+  > Gagner plus d'argent.
 
-- **Votre agence à besoin d'un site ou d'une application mobile ?**
+- **Votre agence a besoin d'un site ou d'une application mobile ?**
 
   > Un site web et une application mobile.
 
@@ -14,11 +14,11 @@
 
   > Client indécis.
 
-- **Pourquoi votre passage au numérique, est-ce que c'est un complément de votre agence physique ou celà a pour objectif de remplacer votre agence ?**
+- **Pourquoi votre passage au numérique, est-ce que c'est un complément de votre agence physique ou cela a pour objectif de remplacer votre agence ?**
 
-  > Le client souhaite ce mettre au goût du jour.
+  > Le client souhaite se mettre au goût du jour.
 
-- **L'entreprise a t-elle une charte graphique ?**
+- **L'entreprise a-t-elle une charte graphique ?**
   > Non
 
 ## 👨‍💼​ Clientèle
@@ -27,7 +27,7 @@
 
   > L'agence ne propose pas d'abonnement.
 
-- **Quelles genre d'inforations allez-vous récolter de vos clients**
+- **Quel genre d'informations allez-vous récolter de vos clients**
 
   > Nom, prénom, info bancaire, numéro de passeport, etc…
 
@@ -41,17 +41,17 @@
 
   > Oui mais il ne sait plus lequel.
 
-- **Avec combien de compagnie de vol traitez-vous ?**
+- **Avec combien de compagnies de vol traitez-vous ?**
 
-  > Pas de nombre en particulier mais que des compagnies européenne.
+  > Pas de nombre en particulier mais que des compagnies européennes.
 
 - Combien de billets un client peut acheter pour un seul vol ?
 
-  > Limite de place dans l'avion.
+  > Limite de places dans l'avion.
 
 - **Votre agence propose des vols partout dans le monde ?**
 
-  > Oui hors de l'europe à la demande du client.
+  > Oui en dehors de l'europe à la demande du client.
 
 - **Est-ce que votre agence vend des billets à l’international ?**
 
@@ -65,8 +65,8 @@
 
 - **Location de voiture/réservation d’hôtel ?**
 
-  > Sous traitance.
+  > Sous-traitance.
 
 - **Votre site doit être opérationnel sous quel délai ?**
 
-  > Dans 1 semaine.
+  > Dans une semaine.
