@@ -31,7 +31,7 @@
 
   > Nom, prénom, info bancaire, numéro de passeport, etc…
 
-- **Avez-vous un programme de fidélisation ? comment fonctionne-t-il ?**
+- **Avez-vous un programme de fidélisation ? Comment fonctionne-t-il ?**
 
   > L'agence n'a pas de programme de fidélisation.
 
