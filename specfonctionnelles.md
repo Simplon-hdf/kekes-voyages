@@ -2,7 +2,7 @@
 
 Régles de gestion pour le projet Kékés Voyages.
 
-## Vol
+## Vol ✈️
 
 - **RG1 :** Un vol doit avoir un lieu de départ et d'arrivée.
 - **RG2 :** Un vol doit avoir une heure de départ et d'arrivée.
@@ -15,7 +15,7 @@ Régles de gestion pour le projet Kékés Voyages.
 - **RG9 :** Un vol doit avoir une durée de vol.
 - **RG10 :** Un vol peut être modifer et supprimer.
 
-## Réservation
+## Réservation 📅
 
 - **RG11 :** Une réservation doit avoir un vol.
 - **RG12 :** Une réservation peut avoir plusieurs vol.
@@ -32,7 +32,7 @@ Régles de gestion pour le projet Kékés Voyages.
 - **RG23 :** Une réservation doit avoir un client.
 - **RG24 :** Une réservation crée un billet et envoie un mail de confirmation.
 
-## Client
+## Client 🧑‍💼
 
 - **RG25 :** Un client doit avoir un prénom et nom
 - **RG26 :** Un client doit avoir un mail
@@ -47,7 +47,7 @@ Régles de gestion pour le projet Kékés Voyages.
 - **RG35 :** Un client peut créer un compte
 - **RG36 :** Un client peut modifier ou supprimer son compte
 
-## Passager
+## Passager 🚶‍♂️
 
 - **RG37 :** Un passager a un nom.
 - **RG38 :** Un massager a un prénom.
@@ -56,7 +56,7 @@ Régles de gestion pour le projet Kékés Voyages.
 - **RG41 :** Un passager doit avoir une pièce d'identité.
 - **RG42 :** Un passager peut avoir un passport.
 
-## Compagnie
+## Compagnie 🏢
 
 - **RG43 :** Une compagnie a un nom.
 - **RG44 :** Une compagnie peut ajouter un vol.
