@@ -60,3 +60,13 @@
 - **Comment gérez-vous les annulations de vol ?**
 
   > Le hub.
+
+## 🤔​ Divers
+
+- **Location de voiture/réservation d’hôtel ?**
+
+  > Sous traitance.
+
+- **Votre site doit être opérationnel sous quel délai ?**
+
+  > Dans 1 semaine.
