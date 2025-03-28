@@ -1,6 +1,7 @@
 # Règles de gestion
 
-Régles de gestion pour le projet Kékés Voyages.
+Les règles de gestion définissent les principes et contraintes liés à la gestion des vols, des réservations, des clients, des passagers et des compagnies,
+elles assurent la cohérence des interactions entre ces entités. 
 
 ## Vol ✈️
 
