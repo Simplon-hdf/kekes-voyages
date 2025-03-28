@@ -14,12 +14,12 @@ elles assurent la cohérence des interactions entre ces entités.
 - **RG7 :** Un vol doit contenir une heure d'embarquement.
 - **RG8 :** Un vol doit contenir une porte d'embarquement.
 - **RG9 :** Un vol doit avoir une durée de vol.
-- **RG10 :** Un vol peut être modifer et supprimer.
+- **RG10 :** Un vol peut être modifé et supprimé.
 
 ## Réservation 📅
 
 - **RG11 :** Une réservation doit avoir un vol.
-- **RG12 :** Une réservation peut avoir plusieurs vol.
+- **RG12 :** Une réservation peut avoir plusieurs vols.
 - **RG13 :** Une réservation doit avoir une destination.
 - **RG14 :** Une réservation doit avoir un départ.
 - **RG15 :** Une réservation doit avoir une classe.
@@ -55,7 +55,7 @@ elles assurent la cohérence des interactions entre ces entités.
 - **RG39 :** Un passager a une date de naissance.
 - **RG40 :** Un passager a un numéro de siège par vol.
 - **RG41 :** Un passager doit avoir une pièce d'identité.
-- **RG42 :** Un passager peut avoir un passport.
+- **RG42 :** Un passager peut avoir un passeport.
 
 ## Compagnie 🏢
 
