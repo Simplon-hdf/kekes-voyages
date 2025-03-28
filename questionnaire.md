@@ -20,3 +20,17 @@
 
 - **L'entreprise a t-elle une charte graphique ?**
   > Non
+
+## 👨‍💼​ Clientèle
+
+- **Est-ce que votre agence propose des abonnements ?**
+
+  > L'agence ne propose pas d'abonnement.
+
+- **Quelles genre d'inforations allez-vous récolter de vos clients**
+
+  > Nom, prénom, info bancaire, numéro de passeport, etc…
+
+- **Avez-vous un programme de fidélisation ? comment fonctionne-t-il ?**
+
+  > L'agence n'a pas de programme de fidélisation.
