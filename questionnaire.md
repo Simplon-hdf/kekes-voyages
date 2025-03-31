@@ -45,7 +45,7 @@
 
   > Pas de nombre en particulier mais que des compagnies européennes.
 
-- Combien de billets un client peut acheter pour un seul vol ?
+- **Combien de billets un client peut acheter pour un seul vol ?**
 
   > Limite de places dans l'avion.
 
