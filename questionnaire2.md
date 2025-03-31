@@ -15,3 +15,15 @@ Est-ce que vos clients doivent nécessairement se connecter ou créer un compte 
 Création de compte : mail, nom, prénom, mdp
 
 -   D’autres informations dont vous souhaitez collecter ?
+
+## 🏷️ Réservation
+Comment votre agence gère-t-elle les réservations de vols actuellement ?
+-   Quelles informations sont obligatoires à fournir pour la réservation de vol ?
+-   Réservation en ligne :
+	-   Les envois de billets se feront par mail ou avec un système de messagerie dans la plateforme ?
+	-   En cas d’annulation le remboursement se déclenche automatiquement ?
+		-   Si non : quelles sont les conditions ? 
+
+Quelles informations sont obligatoires à fournir en tant que passager ?
+-   Proposition au client : nom, prénom, date de naissance, carte d'identité, passeport.
+	-   Il y t-il d'autres informations à prendre en considération ?
