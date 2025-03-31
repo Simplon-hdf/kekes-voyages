@@ -75,3 +75,12 @@ elles assurent la cohérence des interactions entre ces entités.
 - **RG53 :** Un aéroport a un certain nombre de pistes.
 - **RG54 :** Un aéroport doit avoir un statut (ouvert ou fermé).
 
+## Avion  🛫
+
+- **RG55 :** Un avion doit avoir un modèle.
+- **RG56 :** Un avion doit avoir un statut (stationné, en vol, HS).
+- **RG57 :** Un avion doit avoir une localisation exacte.
+- **RG58 :** Un avion doit avoir des places numérotées.
+- **RG59 :** Un avion peut avoir des classes et options.
+- **RG60 :** Un avion doit avoir une compagnie.
+- **RG61 :** Un avion doit avoir un nombre de places.
