@@ -62,3 +62,16 @@ elles assurent la cohérence des interactions entre ces entités.
 - **RG43 :** Une compagnie peut ajouter un vol.
 - **RG44 :** Une compagnie peut modifier un vol.
 - **RG45 :** Une compagnie peut supprimer un vol.
+
+## Aéroport 🛬
+
+- **RG46 :** Un aéroport doit avoir un nom.
+- **RG47 :** Un aéroport doit avoir une localisation (pays, ville et adresse).
+- **RG48 :** Un aéroport peut avoir des avions stationnés.
+- **RG49 :** Un aéroport doit avoir au moins un terminal.
+- **RG50 :** Un aéroport doit avoir un code OACI.
+- **RG51 :** Un aéroport doit avoir un code IATA.
+- **RG52 :** Un aéroport peut proposer des services sur place.
+- **RG53 :** Un aéroport a un certain nombre de pistes.
+- **RG54 :** Un aéroport doit avoir un statut (ouvert ou fermé).
+
